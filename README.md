@@ -1,6 +1,6 @@
-# v-music
+# SpotifyBeta
 
-v-music is a web application that allows users to search for music using the Spotify API and play 30-second song previews. It is built with React, Bootstrap, and the Spotify Web API ( throught nocodeapi ).
+spotifybeta is a web application that allows users to search for music using the Spotify API and play 30-second song previews. It is built with React, Bootstrap, and the Spotify Web API ( throught nocodeapi ).
 
 ## Installation
 
